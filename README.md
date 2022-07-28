@@ -1,4 +1,4 @@
-# Ionic Angular Example
+# Maliek Apps Example
 
 This directory is a brief example of an [Ionic Angular](https://ionicframework.com/docs/angular/overview) app that can be deployed to Vercel with zero configuration
 
