@@ -15,5 +15,5 @@ _Live Example: https://blog.adball.tech_
 To get started with Ionic Angular deployed with Vercel, you can use the [Ionic CLI](https://ionicframework.com/docs/cli) to initialize the project:
 
 ```shell
-$ npx @ionic/cli start [MaliekApp] conference --type angular && cd [Maliek App]
+$ npx @ionic/cli start [project name] conference --type angular && cd [MaliekApp]
 ```
